@@ -9,4 +9,6 @@ for (let character of str) {
   };
 };
 
+// Usar reduce
+
 console.log(collection);
