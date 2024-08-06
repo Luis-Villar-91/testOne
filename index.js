@@ -6,6 +6,6 @@ const sayHello = (times = 1, userName = 'Random') => {
   return 'Stop';
 };
 
-sayHello(5, 'Luis');
+sayHello(5, 'Luis Alberto');
 
 console.log(sayHello());
