@@ -1,4 +1,4 @@
-const str = 'aaaeeeiiooAAEEz';
+const str = 'aaaeeeiiooAAEEz Luis';
 const collection = {};
 
 for (let character of str) {
